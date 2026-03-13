@@ -1,0 +1,1001 @@
+Date,Region,Product_Category,Revenue,Expenses
+2023-01-01,North,Electronics,6447,15258
+2023-01-01,North,Clothing,19376,8754
+2023-01-01,East,Office Supplies,18324,5849
+2023-01-02,East,Clothing,12604,7968
+2023-01-02,North,Furniture,5016,7727
+2023-01-02,North,Furniture,10469,15845
+2023-01-03,East,Electronics,17355,13570
+2023-01-04,South,Furniture,11642,9241
+2023-01-05,East,Electronics,22297,7997
+2023-01-05,West,Furniture,16431,6450
+2023-01-05,North,Electronics,18070,14989
+2023-01-05,North,Clothing,14369,4696
+2023-01-06,West,Furniture,7454,14846
+2023-01-07,North,Office Supplies,14493,6197
+2023-01-08,South,Furniture,22709,8634
+2023-01-08,East,Electronics,11591,3882
+2023-01-09,South,Clothing,18686,12408
+2023-01-09,North,Office Supplies,24194,11016
+2023-01-10,East,Furniture,23383,16754
+2023-01-10,West,Furniture,6517,3205
+2023-01-12,East,Furniture,13333,9534
+2023-01-12,West,Clothing,18269,17928
+2023-01-13,South,Furniture,20906,5305
+2023-01-14,North,Clothing,13656,10823
+2023-01-15,East,Clothing,20587,12779
+2023-01-15,East,Electronics,13556,11708
+2023-01-15,East,Clothing,16889,17087
+2023-01-16,North,Clothing,6125,17460
+2023-01-17,East,Clothing,13461,9919
+2023-01-18,East,Furniture,14135,11584
+2023-01-19,East,Electronics,21843,6743
+2023-01-20,South,Office Supplies,18992,6764
+2023-01-21,South,Clothing,8850,12764
+2023-01-21,South,Office Supplies,19828,8185
+2023-01-22,South,Office Supplies,14700,5014
+2023-01-22,East,Office Supplies,15053,11224
+2023-01-23,South,Furniture,10906,12061
+2023-01-23,South,Electronics,8744,6551
+2023-01-25,South,Clothing,11142,11307
+2023-01-25,East,Clothing,6627,12665
+2023-01-26,East,Office Supplies,19325,12729
+2023-01-26,North,Electronics,24503,14558
+2023-01-27,West,Electronics,6619,16839
+2023-01-28,North,Furniture,24921,14684
+2023-01-28,East,Electronics,18865,10236
+2023-01-28,South,Clothing,23211,9046
+2023-01-28,East,Electronics,5785,7690
+2023-01-29,North,Office Supplies,19424,13827
+2023-02-02,South,Office Supplies,17504,10927
+2023-02-02,West,Office Supplies,10105,14654
+2023-02-03,North,Clothing,15058,5610
+2023-02-03,West,Electronics,24218,12741
+2023-02-04,East,Office Supplies,9079,8973
+2023-02-04,South,Electronics,12394,8409
+2023-02-05,West,Electronics,16182,8793
+2023-02-05,North,Clothing,11171,9410
+2023-02-06,North,Clothing,10779,6947
+2023-02-06,West,Office Supplies,6651,6841
+2023-02-06,East,Electronics,10347,15903
+2023-02-07,West,Furniture,22069,7025
+2023-02-08,West,Office Supplies,19949,6008
+2023-02-08,East,Office Supplies,20352,14462
+2023-02-08,East,Electronics,12851,9696
+2023-02-08,East,Clothing,22823,3887
+2023-02-09,South,Electronics,12929,17256
+2023-02-10,East,Furniture,16824,14894
+2023-02-10,West,Electronics,15142,8575
+2023-02-10,East,Furniture,17605,16822
+2023-02-11,West,Furniture,9088,11345
+2023-02-12,East,Furniture,23888,16917
+2023-02-12,East,Office Supplies,20007,9033
+2023-02-15,North,Electronics,12896,14308
+2023-02-15,South,Office Supplies,5929,3999
+2023-02-16,South,Office Supplies,5282,5743
+2023-02-16,West,Furniture,23284,5763
+2023-02-16,East,Clothing,11519,15001
+2023-02-16,East,Electronics,12429,7276
+2023-02-17,North,Clothing,11910,15641
+2023-02-17,West,Electronics,9652,3451
+2023-02-18,North,Office Supplies,6974,5207
+2023-02-20,East,Furniture,22921,9707
+2023-02-20,North,Clothing,24657,5972
+2023-02-20,East,Furniture,10889,14156
+2023-02-22,South,Furniture,15271,17794
+2023-02-22,West,Furniture,8134,6171
+2023-02-22,West,Office Supplies,7711,10190
+2023-02-22,West,Clothing,7179,13270
+2023-02-23,West,Electronics,6727,13244
+2023-02-23,North,Electronics,5386,10365
+2023-02-23,East,Office Supplies,6283,5064
+2023-02-25,North,Furniture,23556,15738
+2023-02-25,South,Clothing,14591,10256
+2023-02-27,West,Furniture,18565,9589
+2023-02-27,South,Office Supplies,18489,8085
+2023-02-27,East,Electronics,17466,13775
+2023-02-27,East,Office Supplies,14168,14757
+2023-02-28,West,Furniture,19818,6655
+2023-03-02,West,Electronics,10906,9871
+2023-03-03,East,Clothing,11370,10927
+2023-03-04,East,Electronics,5987,11501
+2023-03-04,North,Office Supplies,11493,17743
+2023-03-06,East,Furniture,14866,11851
+2023-03-06,North,Electronics,17871,6811
+2023-03-08,East,Clothing,18283,10846
+2023-03-10,North,Furniture,20037,5765
+2023-03-10,North,Furniture,24627,12689
+2023-03-10,South,Electronics,5258,17895
+2023-03-11,South,Furniture,23863,5179
+2023-03-13,East,Electronics,15145,6363
+2023-03-13,North,Office Supplies,9658,13728
+2023-03-14,West,Clothing,20747,16794
+2023-03-15,North,Office Supplies,22915,8520
+2023-03-16,East,Office Supplies,10476,6664
+2023-03-16,West,Furniture,14087,6326
+2023-03-16,West,Clothing,7808,16065
+2023-03-17,South,Office Supplies,12418,12171
+2023-03-17,South,Office Supplies,11971,16979
+2023-03-19,West,Electronics,11139,14442
+2023-03-19,North,Office Supplies,20845,4855
+2023-03-19,North,Electronics,16641,16422
+2023-03-21,North,Furniture,13770,13672
+2023-03-22,East,Furniture,22421,9093
+2023-03-22,West,Furniture,15213,3174
+2023-03-22,East,Clothing,24877,5951
+2023-03-24,West,Office Supplies,18395,15099
+2023-03-26,South,Clothing,21715,9579
+2023-03-27,East,Electronics,5301,13380
+2023-03-27,North,Furniture,16181,3049
+2023-03-27,South,Electronics,24206,17607
+2023-03-29,South,Furniture,14074,11068
+2023-03-31,South,Electronics,23099,11277
+2023-03-31,West,Office Supplies,23108,16445
+2023-03-31,North,Electronics,20200,8934
+2023-04-01,South,Office Supplies,18615,6180
+2023-04-02,West,Office Supplies,23739,16324
+2023-04-02,South,Office Supplies,8648,4994
+2023-04-03,North,Office Supplies,23990,16046
+2023-04-04,West,Furniture,18937,17143
+2023-04-05,South,Office Supplies,17497,4104
+2023-04-05,East,Clothing,23019,4907
+2023-04-06,East,Furniture,23544,11859
+2023-04-06,North,Electronics,5155,13852
+2023-04-06,West,Furniture,7551,13759
+2023-04-08,South,Office Supplies,12446,8260
+2023-04-09,West,Clothing,18654,13014
+2023-04-09,North,Clothing,14032,11835
+2023-04-09,West,Furniture,5780,16752
+2023-04-09,North,Office Supplies,18258,7493
+2023-04-09,North,Furniture,18970,7369
+2023-04-09,West,Furniture,18930,7214
+2023-04-09,East,Electronics,14127,8722
+2023-04-09,West,Office Supplies,19531,17747
+2023-04-10,North,Furniture,20149,13193
+2023-04-10,West,Furniture,13800,10295
+2023-04-13,North,Clothing,9669,16050
+2023-04-13,South,Electronics,14283,14185
+2023-04-13,North,Office Supplies,11610,11733
+2023-04-14,East,Clothing,21376,12744
+2023-04-14,North,Furniture,17889,11931
+2023-04-15,West,Clothing,18146,15278
+2023-04-16,West,Electronics,7120,12291
+2023-04-16,North,Clothing,11272,12242
+2023-04-16,North,Electronics,21282,9420
+2023-04-17,East,Electronics,18828,4088
+2023-04-17,North,Furniture,5442,10262
+2023-04-19,South,Office Supplies,24554,9432
+2023-04-19,West,Electronics,6750,5161
+2023-04-21,North,Office Supplies,16927,5438
+2023-04-21,South,Office Supplies,14429,16395
+2023-04-21,North,Furniture,15233,11560
+2023-04-22,North,Office Supplies,13329,13469
+2023-04-23,West,Clothing,12742,6554
+2023-04-23,East,Clothing,24873,8355
+2023-04-23,East,Furniture,24033,4519
+2023-04-23,North,Clothing,19042,4124
+2023-04-25,South,Electronics,18230,9217
+2023-04-26,East,Clothing,9000,4102
+2023-04-27,West,Furniture,19868,17300
+2023-04-27,North,Electronics,14203,4932
+2023-04-28,East,Furniture,8536,11399
+2023-04-28,South,Furniture,24539,10263
+2023-04-28,South,Electronics,20072,16237
+2023-04-28,South,Office Supplies,21391,3492
+2023-04-29,South,Electronics,13210,10214
+2023-04-30,South,Clothing,7113,14837
+2023-04-30,East,Electronics,22043,15043
+2023-05-01,North,Electronics,14649,6663
+2023-05-02,North,Office Supplies,22543,11575
+2023-05-02,East,Electronics,18564,14150
+2023-05-03,East,Office Supplies,10588,13860
+2023-05-04,East,Furniture,8292,17609
+2023-05-05,North,Furniture,16407,12784
+2023-05-06,South,Clothing,20434,10619
+2023-05-06,East,Furniture,13491,6560
+2023-05-06,South,Clothing,21288,12583
+2023-05-07,East,Electronics,23658,14486
+2023-05-08,South,Furniture,16918,8223
+2023-05-09,South,Electronics,10330,9555
+2023-05-10,South,Office Supplies,22081,16411
+2023-05-11,West,Furniture,15028,11578
+2023-05-11,South,Furniture,6638,14390
+2023-05-11,East,Furniture,15900,8242
+2023-05-12,West,Clothing,14277,7557
+2023-05-13,East,Office Supplies,8259,13348
+2023-05-13,North,Office Supplies,15412,15602
+2023-05-14,East,Clothing,14765,6607
+2023-05-15,South,Electronics,15595,5222
+2023-05-15,North,Clothing,11979,15237
+2023-05-17,West,Furniture,17869,14737
+2023-05-18,South,Furniture,15081,5230
+2023-05-19,North,Clothing,15759,16333
+2023-05-19,North,Office Supplies,10845,15360
+2023-05-20,West,Office Supplies,21165,13606
+2023-05-23,South,Furniture,9378,6832
+2023-05-23,East,Office Supplies,15849,6483
+2023-05-24,West,Furniture,21807,4105
+2023-05-24,East,Furniture,14031,6929
+2023-05-24,North,Electronics,22251,16355
+2023-05-24,East,Office Supplies,20379,11967
+2023-05-25,South,Office Supplies,10463,6240
+2023-05-25,South,Furniture,5358,7821
+2023-05-25,East,Clothing,8808,8679
+2023-05-26,North,Clothing,17743,14814
+2023-05-26,West,Electronics,7151,16452
+2023-05-27,West,Clothing,21029,4461
+2023-05-28,South,Clothing,21977,8184
+2023-05-29,South,Electronics,21300,11120
+2023-05-30,North,Furniture,17722,5606
+2023-05-31,South,Clothing,14324,13288
+2023-05-31,East,Office Supplies,13472,6162
+2023-06-01,South,Clothing,17485,5661
+2023-06-02,East,Clothing,15077,6227
+2023-06-03,North,Clothing,12544,16399
+2023-06-03,West,Clothing,24909,14755
+2023-06-04,East,Electronics,6753,9683
+2023-06-06,South,Office Supplies,21749,4589
+2023-06-07,East,Clothing,7014,14767
+2023-06-09,East,Office Supplies,22520,13197
+2023-06-09,South,Electronics,12165,8571
+2023-06-09,South,Office Supplies,13004,17122
+2023-06-10,South,Clothing,10017,5745
+2023-06-10,South,Clothing,12927,12433
+2023-06-10,North,Electronics,9517,8037
+2023-06-11,West,Office Supplies,13906,5368
+2023-06-12,South,Furniture,23284,13704
+2023-06-12,South,Electronics,20686,6786
+2023-06-14,East,Clothing,18965,13521
+2023-06-15,South,Electronics,18749,4538
+2023-06-16,South,Electronics,21052,8776
+2023-06-16,East,Electronics,22732,13867
+2023-06-17,South,Clothing,24107,10423
+2023-06-17,North,Office Supplies,18675,15782
+2023-06-17,East,Office Supplies,22079,15700
+2023-06-19,East,Electronics,15704,15938
+2023-06-20,South,Electronics,9875,7232
+2023-06-21,East,Clothing,16944,5555
+2023-06-21,West,Furniture,22015,15512
+2023-06-22,South,Clothing,7044,15399
+2023-06-22,South,Electronics,6863,15956
+2023-06-22,North,Office Supplies,5771,3289
+2023-06-23,North,Office Supplies,6460,16891
+2023-06-25,North,Electronics,12345,10659
+2023-06-26,North,Electronics,11588,8141
+2023-06-26,South,Electronics,5392,11792
+2023-06-27,West,Office Supplies,23352,6109
+2023-06-29,North,Electronics,17150,17489
+2023-06-30,West,Office Supplies,10560,13849
+2023-07-01,South,Office Supplies,22044,4422
+2023-07-02,East,Electronics,6141,11234
+2023-07-03,North,Clothing,6823,7287
+2023-07-03,South,Furniture,12909,14363
+2023-07-05,East,Electronics,20282,17188
+2023-07-06,East,Furniture,8586,10170
+2023-07-07,East,Electronics,23052,8565
+2023-07-08,East,Electronics,13078,9474
+2023-07-09,North,Furniture,11344,10618
+2023-07-09,West,Clothing,6376,10094
+2023-07-09,North,Electronics,11317,12582
+2023-07-09,West,Office Supplies,5097,12915
+2023-07-09,West,Clothing,8716,14948
+2023-07-10,West,Clothing,19289,8243
+2023-07-10,West,Clothing,15088,15327
+2023-07-11,East,Clothing,6089,13695
+2023-07-11,East,Office Supplies,5419,14528
+2023-07-11,North,Electronics,5162,7552
+2023-07-11,East,Furniture,10498,13808
+2023-07-13,North,Office Supplies,24203,7117
+2023-07-13,West,Clothing,11816,3660
+2023-07-14,South,Clothing,20941,5792
+2023-07-14,West,Office Supplies,8267,7769
+2023-07-14,South,Furniture,21390,4293
+2023-07-15,North,Office Supplies,6098,4636
+2023-07-15,South,Electronics,18171,13661
+2023-07-17,East,Electronics,6080,6976
+2023-07-20,North,Furniture,18860,13180
+2023-07-20,West,Office Supplies,7563,17115
+2023-07-20,South,Furniture,14832,7945
+2023-07-21,West,Furniture,22159,8789
+2023-07-22,South,Furniture,18803,6252
+2023-07-22,North,Clothing,6828,5016
+2023-07-23,North,Clothing,9135,13685
+2023-07-24,North,Furniture,21743,4151
+2023-07-25,North,Office Supplies,19056,13534
+2023-07-26,North,Office Supplies,6856,3508
+2023-07-26,South,Office Supplies,12128,12009
+2023-07-27,North,Office Supplies,6019,11088
+2023-07-31,West,Furniture,24840,11058
+2023-08-01,North,Electronics,16093,9614
+2023-08-02,North,Clothing,11980,7986
+2023-08-03,East,Clothing,17168,7236
+2023-08-03,West,Clothing,12230,12256
+2023-08-04,West,Office Supplies,11344,16521
+2023-08-05,North,Electronics,8321,5708
+2023-08-05,North,Office Supplies,19478,10432
+2023-08-05,East,Office Supplies,16280,9687
+2023-08-05,East,Electronics,10374,10812
+2023-08-06,East,Electronics,17232,13533
+2023-08-06,South,Furniture,11629,10160
+2023-08-08,East,Office Supplies,24018,8574
+2023-08-08,North,Office Supplies,24900,16869
+2023-08-08,East,Electronics,22289,14222
+2023-08-08,North,Office Supplies,16116,12467
+2023-08-11,North,Furniture,12183,16701
+2023-08-11,South,Electronics,18527,14467
+2023-08-11,North,Electronics,14641,6699
+2023-08-12,West,Office Supplies,14324,14791
+2023-08-13,East,Office Supplies,18127,15690
+2023-08-13,North,Electronics,11019,7888
+2023-08-13,East,Furniture,6778,16324
+2023-08-13,West,Office Supplies,13706,16193
+2023-08-14,North,Electronics,18975,3719
+2023-08-15,North,Furniture,14028,6259
+2023-08-15,North,Office Supplies,22569,3278
+2023-08-16,South,Furniture,19072,6765
+2023-08-17,North,Furniture,10347,6802
+2023-08-17,North,Office Supplies,5193,10415
+2023-08-17,North,Clothing,20670,4661
+2023-08-18,East,Furniture,9493,13152
+2023-08-18,South,Furniture,19139,5566
+2023-08-19,North,Furniture,24393,12227
+2023-08-19,West,Furniture,21422,5624
+2023-08-19,South,Office Supplies,5340,16629
+2023-08-19,East,Furniture,6724,17967
+2023-08-21,North,Office Supplies,23213,9426
+2023-08-21,West,Furniture,14518,10011
+2023-08-21,East,Office Supplies,7261,10997
+2023-08-21,East,Furniture,11652,11643
+2023-08-21,East,Office Supplies,11445,14049
+2023-08-21,East,Clothing,22522,15098
+2023-08-22,South,Furniture,20463,12821
+2023-08-23,South,Office Supplies,20432,7200
+2023-08-24,North,Furniture,11031,6072
+2023-08-25,East,Office Supplies,12239,10888
+2023-08-27,North,Office Supplies,12069,4481
+2023-08-27,North,Furniture,16531,13743
+2023-08-29,West,Office Supplies,16435,8951
+2023-08-30,South,Office Supplies,16234,10355
+2023-08-30,South,Electronics,21018,10352
+2023-08-31,East,Furniture,19215,12010
+2023-08-31,West,Office Supplies,12166,16779
+2023-09-01,North,Furniture,9837,14836
+2023-09-03,East,Electronics,11304,16401
+2023-09-04,North,Furniture,19889,7958
+2023-09-04,East,Furniture,6013,16239
+2023-09-06,East,Office Supplies,15516,5292
+2023-09-06,North,Office Supplies,10744,11850
+2023-09-07,South,Office Supplies,12718,10361
+2023-09-08,South,Clothing,22740,7591
+2023-09-09,East,Furniture,12083,15050
+2023-09-09,East,Furniture,14885,14030
+2023-09-10,North,Clothing,16834,14805
+2023-09-10,West,Furniture,16826,7068
+2023-09-10,East,Furniture,24374,4772
+2023-09-10,East,Electronics,17763,14863
+2023-09-10,West,Clothing,22055,9614
+2023-09-10,West,Electronics,10693,4381
+2023-09-11,North,Clothing,8471,4401
+2023-09-11,West,Office Supplies,15720,6748
+2023-09-11,East,Clothing,12133,9102
+2023-09-13,West,Furniture,20562,11707
+2023-09-13,East,Furniture,8112,9680
+2023-09-14,South,Office Supplies,9458,6093
+2023-09-15,South,Electronics,13438,4296
+2023-09-16,North,Clothing,24337,10519
+2023-09-16,North,Clothing,10926,16412
+2023-09-16,South,Furniture,15332,15088
+2023-09-18,West,Electronics,22611,7195
+2023-09-20,North,Office Supplies,16166,9708
+2023-09-21,South,Clothing,10055,17696
+2023-09-22,South,Furniture,7454,5451
+2023-09-25,South,Clothing,23931,12215
+2023-09-25,South,Clothing,6628,4914
+2023-09-25,East,Electronics,5645,13717
+2023-09-26,East,Office Supplies,23133,5783
+2023-09-27,East,Clothing,23631,3436
+2023-09-28,North,Clothing,12154,15866
+2023-09-28,East,Office Supplies,21462,5828
+2023-09-29,North,Furniture,11710,15015
+2023-09-30,North,Clothing,9857,6104
+2023-09-30,North,Furniture,9628,12653
+2023-10-01,West,Electronics,7385,13614
+2023-10-01,South,Furniture,6932,5949
+2023-10-04,East,Office Supplies,17411,7897
+2023-10-04,East,Electronics,21859,8788
+2023-10-04,West,Office Supplies,15195,14956
+2023-10-04,East,Furniture,17835,17890
+2023-10-04,West,Furniture,16101,17075
+2023-10-06,North,Electronics,5441,5787
+2023-10-07,North,Electronics,7643,11386
+2023-10-07,East,Electronics,19537,4772
+2023-10-08,North,Office Supplies,16172,13016
+2023-10-09,South,Clothing,8311,15500
+2023-10-09,North,Furniture,11207,8911
+2023-10-10,South,Furniture,12710,9155
+2023-10-10,West,Clothing,23450,6796
+2023-10-11,West,Office Supplies,6431,7579
+2023-10-12,East,Office Supplies,21087,10594
+2023-10-12,North,Clothing,11530,13082
+2023-10-15,North,Furniture,18183,15721
+2023-10-16,West,Clothing,24595,12607
+2023-10-16,South,Furniture,7307,10186
+2023-10-16,South,Furniture,16483,8590
+2023-10-21,South,Office Supplies,7023,12388
+2023-10-23,East,Clothing,9940,12496
+2023-10-25,West,Electronics,10093,13293
+2023-10-27,West,Electronics,21499,4518
+2023-10-28,West,Furniture,7524,15692
+2023-10-29,East,Electronics,5587,6667
+2023-10-29,North,Office Supplies,22258,5204
+2023-10-30,East,Furniture,22294,6277
+2023-10-30,South,Electronics,7282,3166
+2023-10-31,North,Electronics,11256,14788
+2023-11-01,North,Electronics,9666,6313
+2023-11-01,South,Office Supplies,11716,7776
+2023-11-02,North,Office Supplies,16777,14686
+2023-11-02,West,Clothing,12064,5120
+2023-11-04,South,Furniture,6819,12523
+2023-11-05,West,Clothing,6382,6747
+2023-11-08,North,Furniture,12151,8131
+2023-11-10,West,Clothing,20422,11605
+2023-11-10,South,Furniture,17924,11350
+2023-11-11,South,Clothing,6708,7456
+2023-11-12,South,Furniture,5163,10547
+2023-11-12,West,Office Supplies,8828,16131
+2023-11-14,East,Clothing,21898,14715
+2023-11-15,South,Furniture,9208,12369
+2023-11-16,West,Office Supplies,6137,4306
+2023-11-16,West,Furniture,24546,9481
+2023-11-17,South,Furniture,24225,5642
+2023-11-17,South,Electronics,16861,9599
+2023-11-18,West,Electronics,23330,10162
+2023-11-19,West,Electronics,16929,13039
+2023-11-19,West,Clothing,6171,16913
+2023-11-21,North,Electronics,6283,11988
+2023-11-22,South,Furniture,13016,9163
+2023-11-22,West,Furniture,21087,16339
+2023-11-23,North,Electronics,24582,15839
+2023-11-26,North,Office Supplies,23626,15112
+2023-11-26,East,Office Supplies,10410,16926
+2023-11-27,North,Furniture,16870,4948
+2023-11-27,North,Office Supplies,10448,12959
+2023-12-01,South,Clothing,7658,10742
+2023-12-01,North,Electronics,22815,15869
+2023-12-02,West,Office Supplies,6529,14617
+2023-12-03,North,Office Supplies,12597,14414
+2023-12-04,North,Electronics,10997,17562
+2023-12-04,South,Clothing,11397,14023
+2023-12-04,West,Office Supplies,12788,3182
+2023-12-05,North,Office Supplies,16240,13642
+2023-12-06,South,Furniture,20921,9361
+2023-12-06,East,Office Supplies,9798,4497
+2023-12-07,East,Electronics,5612,11548
+2023-12-08,South,Clothing,22371,10470
+2023-12-08,South,Clothing,13535,7781
+2023-12-08,North,Clothing,16565,9689
+2023-12-10,North,Electronics,17686,15145
+2023-12-10,East,Clothing,6403,15834
+2023-12-12,West,Office Supplies,9795,9465
+2023-12-12,South,Electronics,15183,9353
+2023-12-12,South,Electronics,18703,3389
+2023-12-12,East,Furniture,21063,10982
+2023-12-12,North,Office Supplies,15775,17823
+2023-12-14,East,Furniture,16851,17208
+2023-12-14,East,Clothing,14101,15067
+2023-12-14,North,Furniture,9650,8810
+2023-12-14,West,Clothing,15517,13202
+2023-12-15,East,Clothing,13017,15188
+2023-12-15,East,Furniture,11643,12131
+2023-12-16,South,Furniture,20883,16636
+2023-12-16,West,Office Supplies,24799,6731
+2023-12-16,West,Furniture,5882,12533
+2023-12-16,West,Electronics,10774,4946
+2023-12-20,East,Clothing,20177,11682
+2023-12-23,West,Furniture,16205,17646
+2023-12-24,East,Electronics,22839,17245
+2023-12-25,West,Furniture,11251,12120
+2023-12-26,North,Furniture,8361,7173
+2023-12-27,West,Electronics,5342,3270
+2023-12-29,North,Furniture,20848,3139
+2023-12-31,South,Clothing,12531,5803
+2023-12-31,East,Office Supplies,13259,17534
+2023-12-31,North,Furniture,19973,7559
+2024-01-02,South,Furniture,15749,17519
+2024-01-02,East,Furniture,7659,6674
+2024-01-04,North,Electronics,8830,4676
+2024-01-04,East,Clothing,21789,17524
+2024-01-04,South,Furniture,21212,14666
+2024-01-05,West,Furniture,19939,6644
+2024-01-08,North,Clothing,15288,7307
+2024-01-08,North,Electronics,24835,8445
+2024-01-08,West,Office Supplies,5204,14477
+2024-01-08,West,Clothing,11406,5235
+2024-01-09,West,Furniture,15135,6490
+2024-01-09,South,Office Supplies,7520,10122
+2024-01-09,South,Clothing,16595,17197
+2024-01-10,East,Furniture,15851,15952
+2024-01-11,West,Furniture,11416,11148
+2024-01-12,West,Office Supplies,8630,15856
+2024-01-12,West,Office Supplies,23037,15310
+2024-01-14,South,Furniture,22630,9919
+2024-01-15,East,Office Supplies,20036,8366
+2024-01-15,North,Furniture,21531,10241
+2024-01-19,East,Clothing,11701,10778
+2024-01-20,East,Clothing,5726,17367
+2024-01-20,North,Clothing,10110,5257
+2024-01-20,West,Electronics,13894,9318
+2024-01-21,West,Office Supplies,23800,7595
+2024-01-21,West,Office Supplies,19933,4378
+2024-01-21,South,Office Supplies,15123,3232
+2024-01-21,West,Office Supplies,14011,14798
+2024-01-22,South,Office Supplies,15473,6374
+2024-01-22,South,Office Supplies,11581,5468
+2024-01-23,East,Furniture,24056,12165
+2024-01-23,North,Office Supplies,19308,15449
+2024-01-24,South,Office Supplies,11439,12198
+2024-01-25,South,Furniture,21294,5749
+2024-01-25,North,Office Supplies,8191,6965
+2024-01-27,South,Clothing,5364,17250
+2024-01-27,South,Clothing,20433,8818
+2024-01-27,North,Electronics,14765,5307
+2024-01-28,North,Clothing,20795,4757
+2024-01-28,North,Furniture,21377,16399
+2024-01-28,West,Electronics,21669,5871
+2024-01-28,South,Office Supplies,11588,8690
+2024-01-29,North,Electronics,14122,5369
+2024-01-29,South,Clothing,10004,5606
+2024-01-31,North,Electronics,10661,15972
+2024-01-31,West,Office Supplies,23171,7422
+2024-02-01,West,Furniture,18537,8158
+2024-02-01,East,Office Supplies,13179,16810
+2024-02-02,South,Furniture,12999,6866
+2024-02-02,North,Office Supplies,24330,16715
+2024-02-02,West,Electronics,10946,14606
+2024-02-04,East,Electronics,6633,16379
+2024-02-05,East,Office Supplies,18392,3406
+2024-02-05,West,Furniture,22858,7160
+2024-02-05,East,Furniture,24715,12889
+2024-02-05,South,Electronics,18109,13070
+2024-02-06,South,Office Supplies,11172,10398
+2024-02-06,South,Furniture,14302,11445
+2024-02-07,North,Furniture,17087,13980
+2024-02-07,East,Clothing,12611,6922
+2024-02-07,West,Office Supplies,16005,3539
+2024-02-08,North,Electronics,17448,5158
+2024-02-09,South,Office Supplies,8760,7538
+2024-02-09,South,Furniture,16738,13578
+2024-02-11,East,Electronics,7196,10016
+2024-02-11,North,Office Supplies,20990,7728
+2024-02-12,North,Electronics,14879,16705
+2024-02-12,South,Furniture,10808,6156
+2024-02-13,East,Office Supplies,19567,16281
+2024-02-14,South,Office Supplies,7384,5600
+2024-02-15,North,Electronics,13553,3522
+2024-02-17,East,Office Supplies,21021,13410
+2024-02-18,South,Furniture,8292,6175
+2024-02-19,East,Clothing,12815,11891
+2024-02-19,East,Electronics,5778,12065
+2024-02-19,South,Clothing,5541,7213
+2024-02-20,East,Clothing,19871,6893
+2024-02-21,North,Furniture,24374,13211
+2024-02-22,West,Clothing,11450,5468
+2024-02-23,West,Electronics,11511,10226
+2024-02-24,East,Clothing,11980,17039
+2024-02-24,West,Office Supplies,21230,15458
+2024-02-26,South,Office Supplies,19472,17744
+2024-02-26,North,Furniture,17336,3680
+2024-02-26,South,Electronics,23146,15146
+2024-02-29,South,Clothing,19852,10644
+2024-03-02,North,Office Supplies,14587,5409
+2024-03-03,East,Electronics,9719,17238
+2024-03-07,North,Furniture,24584,8258
+2024-03-10,South,Furniture,20688,15506
+2024-03-10,East,Electronics,14428,6489
+2024-03-10,North,Electronics,10624,7357
+2024-03-10,South,Furniture,19721,14944
+2024-03-11,North,Electronics,11430,13886
+2024-03-12,West,Electronics,22373,6722
+2024-03-12,West,Office Supplies,15485,9361
+2024-03-13,East,Furniture,22154,6854
+2024-03-13,South,Electronics,12736,6709
+2024-03-14,West,Clothing,21610,5005
+2024-03-16,South,Electronics,11142,9309
+2024-03-16,South,Clothing,14984,7958
+2024-03-17,North,Clothing,7159,8423
+2024-03-17,South,Clothing,24988,3619
+2024-03-18,East,Furniture,6140,5761
+2024-03-19,East,Electronics,6854,10763
+2024-03-20,West,Electronics,15449,6824
+2024-03-20,North,Office Supplies,6492,11275
+2024-03-21,East,Clothing,21585,17144
+2024-03-21,North,Clothing,18893,16723
+2024-03-22,East,Office Supplies,12461,4363
+2024-03-22,South,Office Supplies,10223,17385
+2024-03-24,West,Electronics,23881,8310
+2024-03-25,South,Office Supplies,20114,16722
+2024-03-25,South,Furniture,23454,4567
+2024-03-26,East,Office Supplies,12156,14410
+2024-03-28,South,Electronics,5830,4815
+2024-03-28,East,Electronics,6898,10866
+2024-03-28,South,Clothing,9713,6718
+2024-03-30,South,Furniture,22761,3628
+2024-03-30,West,Electronics,10827,13350
+2024-03-31,South,Furniture,8300,11043
+2024-03-31,West,Furniture,18319,17201
+2024-03-31,East,Furniture,13080,4556
+2024-04-01,South,Furniture,24086,3152
+2024-04-01,South,Electronics,17576,6638
+2024-04-02,South,Furniture,5935,5832
+2024-04-03,North,Office Supplies,22563,15935
+2024-04-04,West,Electronics,24686,10427
+2024-04-04,West,Furniture,7839,17047
+2024-04-05,North,Office Supplies,9615,11463
+2024-04-05,East,Clothing,9648,14606
+2024-04-05,East,Furniture,7461,5437
+2024-04-06,West,Clothing,14503,4809
+2024-04-06,South,Clothing,12099,10570
+2024-04-08,East,Clothing,21100,9469
+2024-04-10,South,Clothing,7011,10032
+2024-04-11,South,Electronics,10078,8668
+2024-04-12,West,Office Supplies,17991,13626
+2024-04-13,North,Electronics,17109,7956
+2024-04-14,North,Clothing,11905,15502
+2024-04-14,North,Clothing,8384,4524
+2024-04-15,West,Office Supplies,17485,10006
+2024-04-15,West,Electronics,7800,13919
+2024-04-16,North,Office Supplies,13964,11244
+2024-04-16,South,Furniture,8967,4316
+2024-04-17,West,Clothing,19082,6923
+2024-04-17,West,Furniture,8754,14992
+2024-04-17,East,Furniture,22047,10480
+2024-04-18,North,Furniture,22961,13541
+2024-04-18,South,Clothing,16168,8451
+2024-04-18,East,Clothing,21766,6951
+2024-04-18,West,Office Supplies,13036,14254
+2024-04-19,West,Electronics,14752,11436
+2024-04-19,North,Office Supplies,23428,6426
+2024-04-20,North,Electronics,11140,3187
+2024-04-20,North,Furniture,18969,15541
+2024-04-20,East,Furniture,16328,7570
+2024-04-21,East,Electronics,14833,16767
+2024-04-21,East,Electronics,21955,6701
+2024-04-21,North,Furniture,5597,13601
+2024-04-25,West,Electronics,14067,3972
+2024-04-25,South,Office Supplies,22514,6408
+2024-04-28,East,Furniture,13787,13195
+2024-04-29,East,Office Supplies,17258,10818
+2024-04-29,West,Electronics,22330,9989
+2024-04-29,East,Electronics,12993,11549
+2024-05-02,West,Electronics,6842,12944
+2024-05-02,South,Clothing,15403,14424
+2024-05-03,West,Furniture,16154,14796
+2024-05-04,South,Office Supplies,7376,8585
+2024-05-04,West,Office Supplies,23322,3277
+2024-05-06,West,Clothing,18074,13593
+2024-05-06,North,Electronics,14011,13433
+2024-05-07,North,Office Supplies,17089,10651
+2024-05-07,South,Furniture,16439,7009
+2024-05-10,South,Electronics,10827,3699
+2024-05-11,East,Electronics,23681,11680
+2024-05-11,South,Furniture,21154,15906
+2024-05-11,South,Clothing,16329,8621
+2024-05-13,East,Office Supplies,10439,16341
+2024-05-13,West,Electronics,14177,13993
+2024-05-14,East,Clothing,19849,13230
+2024-05-15,West,Furniture,12096,11155
+2024-05-16,South,Electronics,23184,13990
+2024-05-17,East,Electronics,19089,16386
+2024-05-17,East,Clothing,18331,13561
+2024-05-17,West,Office Supplies,9583,9352
+2024-05-18,North,Furniture,8802,8755
+2024-05-18,North,Electronics,7096,16993
+2024-05-19,North,Clothing,12758,5130
+2024-05-19,East,Furniture,21910,14546
+2024-05-20,West,Furniture,5141,14622
+2024-05-20,West,Electronics,15913,6168
+2024-05-20,West,Electronics,12521,10468
+2024-05-20,East,Furniture,18718,15091
+2024-05-22,North,Electronics,7352,4424
+2024-05-22,East,Electronics,18467,10106
+2024-05-22,South,Clothing,17946,17270
+2024-05-23,North,Electronics,5593,5555
+2024-05-24,South,Furniture,7097,15096
+2024-05-24,South,Office Supplies,24363,8672
+2024-05-25,East,Office Supplies,12804,9297
+2024-05-25,East,Clothing,6549,10938
+2024-05-25,South,Clothing,10036,4751
+2024-05-25,East,Electronics,5161,16109
+2024-05-25,West,Office Supplies,8052,6273
+2024-05-25,East,Electronics,8906,15768
+2024-05-26,East,Furniture,24675,7426
+2024-05-26,North,Electronics,17464,14623
+2024-05-27,South,Clothing,11852,4116
+2024-05-27,West,Electronics,19730,5240
+2024-05-27,East,Clothing,18778,17901
+2024-05-30,East,Clothing,5557,10737
+2024-05-30,South,Office Supplies,5923,6642
+2024-05-30,North,Office Supplies,14435,17958
+2024-05-31,East,Clothing,16639,9242
+2024-06-01,North,Clothing,6875,17497
+2024-06-01,South,Furniture,21965,16370
+2024-06-01,North,Office Supplies,15403,9547
+2024-06-02,South,Furniture,22317,5780
+2024-06-03,North,Clothing,17966,5535
+2024-06-04,West,Furniture,9531,3159
+2024-06-05,West,Furniture,7591,12077
+2024-06-07,West,Office Supplies,13767,14599
+2024-06-08,North,Clothing,14794,15297
+2024-06-08,South,Electronics,7196,7523
+2024-06-08,South,Clothing,14714,9340
+2024-06-08,East,Clothing,5572,17842
+2024-06-09,East,Furniture,6936,11160
+2024-06-09,South,Clothing,13315,10951
+2024-06-09,South,Electronics,13921,3824
+2024-06-14,East,Clothing,15178,15167
+2024-06-15,West,Furniture,16190,3580
+2024-06-15,North,Electronics,19482,15883
+2024-06-17,East,Furniture,18790,8287
+2024-06-20,East,Office Supplies,5138,3018
+2024-06-21,West,Office Supplies,7336,3025
+2024-06-23,West,Electronics,22087,7082
+2024-06-24,South,Furniture,22640,17234
+2024-06-25,North,Office Supplies,8500,11752
+2024-06-26,East,Furniture,17982,15712
+2024-06-28,North,Furniture,16739,11711
+2024-06-29,North,Clothing,11990,15046
+2024-06-29,South,Office Supplies,16951,15812
+2024-06-30,West,Clothing,9998,7402
+2024-06-30,East,Clothing,19686,10161
+2024-06-30,North,Office Supplies,7866,11497
+2024-07-01,North,Electronics,12269,8808
+2024-07-01,South,Clothing,15487,14029
+2024-07-03,East,Office Supplies,8420,6849
+2024-07-04,North,Clothing,8390,3234
+2024-07-04,East,Furniture,16381,16182
+2024-07-04,North,Clothing,19203,16912
+2024-07-07,East,Office Supplies,17275,9056
+2024-07-07,North,Electronics,6307,8941
+2024-07-09,North,Office Supplies,23663,15070
+2024-07-09,West,Furniture,15964,9976
+2024-07-09,South,Clothing,17500,11662
+2024-07-09,West,Clothing,23230,15265
+2024-07-10,East,Furniture,14951,11389
+2024-07-11,West,Office Supplies,5855,4849
+2024-07-12,East,Electronics,7490,16725
+2024-07-13,North,Furniture,23939,14498
+2024-07-14,West,Clothing,5767,4098
+2024-07-15,East,Clothing,15636,4238
+2024-07-16,East,Office Supplies,9020,4903
+2024-07-16,East,Electronics,9283,15088
+2024-07-16,East,Furniture,11548,8409
+2024-07-17,South,Electronics,5685,8276
+2024-07-17,North,Office Supplies,7597,6696
+2024-07-17,North,Clothing,10132,5587
+2024-07-18,East,Electronics,21977,15297
+2024-07-18,North,Office Supplies,15096,3692
+2024-07-18,West,Clothing,15634,15737
+2024-07-19,West,Office Supplies,11342,3630
+2024-07-19,North,Furniture,8983,7072
+2024-07-19,North,Clothing,17728,4380
+2024-07-19,North,Clothing,5392,8686
+2024-07-20,North,Office Supplies,23677,5092
+2024-07-22,South,Furniture,9249,17659
+2024-07-23,West,Furniture,22833,14908
+2024-07-23,West,Electronics,8750,17824
+2024-07-25,West,Clothing,21044,14849
+2024-07-25,West,Electronics,23708,5295
+2024-07-26,South,Office Supplies,14370,13667
+2024-07-27,West,Electronics,10978,17027
+2024-07-27,West,Furniture,23354,13825
+2024-07-27,West,Furniture,15773,13863
+2024-07-28,West,Office Supplies,19036,12080
+2024-07-28,West,Electronics,8137,10605
+2024-07-30,South,Furniture,21299,6423
+2024-07-31,South,Electronics,22030,12298
+2024-07-31,South,Electronics,6998,17648
+2024-08-02,South,Electronics,21370,9091
+2024-08-02,North,Furniture,20996,15253
+2024-08-03,West,Furniture,18521,12738
+2024-08-04,South,Electronics,6207,9160
+2024-08-09,East,Electronics,23509,10703
+2024-08-10,North,Clothing,18947,4913
+2024-08-15,East,Electronics,19473,9846
+2024-08-16,North,Electronics,21566,16156
+2024-08-17,West,Furniture,23951,11319
+2024-08-18,West,Clothing,14528,6318
+2024-08-18,South,Clothing,15503,12280
+2024-08-23,North,Office Supplies,5671,10913
+2024-08-23,North,Office Supplies,5475,11811
+2024-08-24,East,Electronics,17328,15424
+2024-08-26,West,Office Supplies,22826,3992
+2024-08-26,North,Furniture,21280,5645
+2024-08-27,East,Electronics,15785,14307
+2024-08-28,West,Office Supplies,20309,8633
+2024-08-29,South,Furniture,9761,15968
+2024-08-29,East,Office Supplies,20892,8345
+2024-08-29,North,Electronics,14346,15474
+2024-08-30,North,Office Supplies,22053,3882
+2024-08-30,North,Office Supplies,6428,16963
+2024-08-31,East,Furniture,20261,9516
+2024-08-31,North,Clothing,15822,10430
+2024-09-01,North,Electronics,20512,14834
+2024-09-01,South,Clothing,10891,11353
+2024-09-02,South,Clothing,18428,4673
+2024-09-03,North,Electronics,17130,13844
+2024-09-03,East,Clothing,22071,17609
+2024-09-04,North,Furniture,8983,4884
+2024-09-04,North,Office Supplies,16590,17296
+2024-09-04,East,Furniture,7660,7855
+2024-09-04,West,Clothing,15800,8939
+2024-09-04,West,Electronics,16749,11199
+2024-09-04,North,Furniture,15805,8777
+2024-09-06,East,Clothing,22073,9144
+2024-09-08,South,Clothing,10433,6619
+2024-09-11,West,Furniture,18057,13640
+2024-09-11,West,Electronics,17819,8685
+2024-09-14,North,Clothing,8236,13116
+2024-09-14,East,Furniture,17452,9358
+2024-09-15,West,Electronics,23850,16689
+2024-09-15,South,Furniture,6960,3517
+2024-09-15,North,Electronics,15258,5100
+2024-09-16,South,Furniture,23555,15828
+2024-09-16,West,Electronics,21346,7408
+2024-09-16,North,Furniture,8083,10935
+2024-09-17,North,Electronics,23710,6583
+2024-09-17,South,Office Supplies,8959,12171
+2024-09-19,West,Clothing,23844,3234
+2024-09-19,West,Furniture,6733,7979
+2024-09-22,South,Clothing,15582,9043
+2024-09-24,North,Electronics,21406,15180
+2024-09-25,South,Clothing,21648,16234
+2024-09-25,East,Furniture,10075,16577
+2024-09-25,North,Electronics,21028,14578
+2024-09-25,East,Clothing,10546,8637
+2024-09-27,West,Office Supplies,5781,8241
+2024-09-29,South,Furniture,18635,14163
+2024-09-29,South,Clothing,11411,14691
+2024-09-29,North,Furniture,22508,11588
+2024-09-30,North,Furniture,7169,11566
+2024-09-30,East,Electronics,23745,15063
+2024-10-01,North,Clothing,17080,14515
+2024-10-01,East,Office Supplies,20078,16732
+2024-10-01,North,Furniture,9082,16216
+2024-10-02,East,Electronics,17693,4548
+2024-10-02,South,Clothing,23810,17338
+2024-10-03,South,Electronics,17306,10619
+2024-10-03,West,Electronics,20379,12083
+2024-10-04,North,Office Supplies,21905,6167
+2024-10-06,East,Furniture,10443,12168
+2024-10-06,East,Electronics,12084,17565
+2024-10-06,East,Clothing,16120,4476
+2024-10-07,West,Electronics,8825,17114
+2024-10-07,South,Clothing,21140,9091
+2024-10-08,South,Clothing,10542,8647
+2024-10-09,South,Clothing,5040,4132
+2024-10-09,West,Furniture,9697,13179
+2024-10-09,North,Furniture,10510,12203
+2024-10-10,West,Clothing,8727,8904
+2024-10-11,East,Office Supplies,11337,8178
+2024-10-13,South,Office Supplies,6169,6173
+2024-10-14,East,Office Supplies,12368,3614
+2024-10-14,North,Clothing,19140,15996
+2024-10-15,North,Office Supplies,24151,4742
+2024-10-15,North,Office Supplies,22901,8102
+2024-10-16,East,Office Supplies,15736,8738
+2024-10-17,South,Furniture,15983,17350
+2024-10-17,West,Furniture,14836,12865
+2024-10-17,North,Office Supplies,16531,12797
+2024-10-18,North,Clothing,12193,10557
+2024-10-18,North,Clothing,21232,17662
+2024-10-19,West,Office Supplies,16002,17212
+2024-10-20,East,Office Supplies,15102,12475
+2024-10-20,East,Office Supplies,21184,3674
+2024-10-20,East,Office Supplies,23489,13692
+2024-10-20,East,Furniture,14557,10395
+2024-10-20,South,Office Supplies,23778,14116
+2024-10-21,South,Electronics,8959,6220
+2024-10-21,West,Furniture,22111,14768
+2024-10-23,North,Furniture,17021,8693
+2024-10-23,North,Clothing,15340,11448
+2024-10-24,South,Furniture,15693,7444
+2024-10-24,South,Electronics,10432,14594
+2024-10-24,West,Furniture,21378,7946
+2024-10-25,South,Office Supplies,6958,14128
+2024-10-25,South,Electronics,15592,5895
+2024-10-25,South,Office Supplies,19083,11392
+2024-10-25,East,Office Supplies,10867,4988
+2024-10-25,North,Office Supplies,16754,15820
+2024-10-26,East,Office Supplies,19357,14365
+2024-10-27,East,Office Supplies,10619,10291
+2024-10-28,South,Furniture,11564,7796
+2024-10-29,West,Electronics,11796,14580
+2024-10-31,South,Furniture,11823,16869
+2024-10-31,East,Furniture,18493,9198
+2024-11-02,East,Electronics,16411,17211
+2024-11-02,West,Clothing,15587,15098
+2024-11-02,South,Electronics,14235,6237
+2024-11-02,West,Furniture,8081,8842
+2024-11-03,South,Furniture,17413,15847
+2024-11-03,East,Office Supplies,23394,6253
+2024-11-04,South,Furniture,18851,7199
+2024-11-05,South,Clothing,5226,3929
+2024-11-05,South,Office Supplies,18279,4228
+2024-11-06,West,Office Supplies,7007,9771
+2024-11-06,East,Furniture,12950,7967
+2024-11-06,South,Electronics,9987,11533
+2024-11-07,West,Furniture,6774,13965
+2024-11-07,South,Office Supplies,21832,15718
+2024-11-11,East,Office Supplies,22833,14867
+2024-11-12,South,Office Supplies,19571,5224
+2024-11-12,North,Furniture,21994,12968
+2024-11-12,North,Electronics,14956,12101
+2024-11-12,East,Office Supplies,24446,14704
+2024-11-12,West,Furniture,16246,11112
+2024-11-14,North,Office Supplies,14596,15936
+2024-11-14,East,Office Supplies,15047,8832
+2024-11-14,West,Electronics,14908,8086
+2024-11-15,West,Electronics,23474,11652
+2024-11-15,West,Furniture,10054,14108
+2024-11-15,North,Clothing,22862,6075
+2024-11-16,North,Furniture,7539,13847
+2024-11-17,South,Electronics,9481,13207
+2024-11-18,North,Office Supplies,24362,7063
+2024-11-19,East,Furniture,20812,4991
+2024-11-19,North,Clothing,9578,12135
+2024-11-20,East,Office Supplies,5276,16032
+2024-11-20,West,Clothing,8864,9593
+2024-11-21,East,Electronics,21648,6212
+2024-11-21,East,Furniture,19291,9468
+2024-11-22,South,Electronics,23693,16127
+2024-11-22,North,Furniture,15238,10196
+2024-11-22,East,Furniture,19566,16200
+2024-11-22,South,Office Supplies,21009,14033
+2024-11-23,East,Electronics,23351,17080
+2024-11-25,West,Electronics,14046,4196
+2024-11-26,East,Office Supplies,12835,14065
+2024-11-27,North,Electronics,9943,15867
+2024-11-28,East,Clothing,18368,3215
+2024-11-28,North,Office Supplies,21724,15251
+2024-11-29,West,Electronics,8807,3112
+2024-11-29,East,Electronics,21013,5176
+2024-11-29,South,Clothing,18944,11418
+2024-11-29,West,Electronics,20997,17947
+2024-11-30,South,Electronics,22073,6276
+2024-11-30,South,Clothing,15837,15236
+2024-12-01,West,Clothing,11488,3024
+2024-12-02,East,Furniture,14223,10480
+2024-12-03,East,Office Supplies,8631,5780
+2024-12-04,North,Clothing,10482,15707
+2024-12-04,South,Office Supplies,7285,13572
+2024-12-04,East,Electronics,14342,5524
+2024-12-06,North,Furniture,7757,14950
+2024-12-09,North,Electronics,9033,11712
+2024-12-09,North,Clothing,9492,12327
+2024-12-10,West,Clothing,12684,3201
+2024-12-10,North,Electronics,23313,16770
+2024-12-10,East,Electronics,14496,6607
+2024-12-11,North,Office Supplies,19226,11547
+2024-12-14,East,Electronics,15651,13744
+2024-12-14,West,Furniture,17132,7316
+2024-12-14,North,Electronics,14569,9261
+2024-12-15,South,Clothing,14094,11345
+2024-12-17,West,Electronics,8868,5800
+2024-12-18,West,Clothing,20223,12821
+2024-12-19,West,Office Supplies,19138,13758
+2024-12-20,South,Furniture,8456,13576
+2024-12-20,East,Electronics,23994,13343
+2024-12-24,East,Office Supplies,9912,9028
+2024-12-24,West,Furniture,8935,5195
+2024-12-25,West,Electronics,24655,17366
+2024-12-26,North,Office Supplies,11313,14889
+2024-12-26,West,Office Supplies,11303,12456
+2024-12-27,South,Clothing,18140,4072
+2024-12-27,South,Electronics,19916,16364
+2024-12-27,South,Electronics,8348,9236
+2024-12-28,North,Office Supplies,22153,10758
+2024-12-29,South,Electronics,22332,11858
+2024-12-29,East,Furniture,23058,5217
+2024-12-30,South,Electronics,14312,4588
+2024-12-30,West,Office Supplies,22438,11125
+2024-12-30,North,Electronics,10251,7424
